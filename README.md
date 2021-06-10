@@ -5,8 +5,6 @@ GitHub users and their data
 
 ## Project specifications
 
----
-
 - Using Github API to fetch users
 
 - Display some of users profile data and repositories in a card
